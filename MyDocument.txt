@@ -1,7 +1,0 @@
-Hello, Welcome to Git and Github.
-
-This is Sejal Patil.
-
-This is our First Session
-
-
